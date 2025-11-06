@@ -1,4 +1,4 @@
-# ML_LinearModule
+# **ML_LinearModule**
 编写Python代码，通过complete_train_samples.csv搭建、训练线性回归模型和KNN模型，利用XA, XB预测Y。
 
 用matplotlib画出针对complete_train_samples中样本的模型预测值和Y的真实值。
@@ -7,7 +7,7 @@
 
 预测test_samples.csv中的各样本的Y值，并把结果保存在’test_prediction.csv’中（含有XA, XB, Prediction三列）。
 
-我们将按照以下步骤进行：
+**我们将按照以下步骤进行：**
 
 步骤1：导入必要的库
 
